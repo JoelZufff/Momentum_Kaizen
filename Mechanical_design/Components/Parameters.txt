@@ -1,0 +1,2 @@
+﻿"Ancho_llanta"= 44mm
+"Diametro_llanta"= 197.51mm
